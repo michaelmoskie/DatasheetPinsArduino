@@ -1,0 +1,26 @@
+// AVR AtMega32u4 Arduino Pin Macros
+#define PIN_PD2 0
+#define PIN_PD3 1
+#define PIN_PD1 2
+#define PIN_PD0 3
+#define PIN_PD4 4
+#define PIN_PC6 5
+#define PIN_PD7 6
+#define PIN_PE6 7
+#define PIN_PB4 8
+#define PIN_PB5 9
+#define PIN_PB6 10
+#define PIN_PB7 11
+#define PIN_PD6 12
+#define PIN_PC7 13
+#define PIN_PF7 18
+#define PIN_PF6 19
+#define PIN_PF5 20
+#define PIN_PF4 21
+#define PIN_PF1 22
+#define PIN_PF0 23
+#define PIN_PB3 14
+#define PIN_PB1 15
+#define PIN_PB2 16
+#define PIN_PB0 17
+#define PIN_PD5 30
